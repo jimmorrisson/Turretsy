@@ -89,7 +89,6 @@ public class SpawnLaser : MonoBehaviour
                 }
                 else
                 {
-                    Debug.Log($"{hit.collider.name}");
                     ray = new Ray(hit.point, Vector3.Reflect(ray.direction, hit.transform.forward));
                 }
                 lr.positionCount++;
