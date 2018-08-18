@@ -1,24 +1,18 @@
 fileFormatVersion: 2
-guid: f9d64dd4b71d7594bab656c05bba9a15
+guid: 97ffe5bafdb213c4fa9a52395ec0eed4
+timeCreated: 1534608730
+licenseType: Free
 ModelImporter:
-  serializedVersion: 23
+  serializedVersion: 22
   fileIDToRecycleName:
-    100000: Form1
-    100002: Form4
-    100004: //RootNode
-    400000: Form1
-    400002: Form4
-    400004: //RootNode
-    2100000: Form1Mat
-    2100002: Form4Mat
-    2300000: Form1
-    2300002: Form4
-    3300000: Form1
-    3300002: Form4
-    4300000: Form1
-    4300002: Form4
-    6400000: Form1
-    6400002: Form4
+    100000: mirror_0001f
+    100002: //RootNode
+    400000: mirror_0001f
+    400002: //RootNode
+    2100000: mirror_0001fMat
+    2300000: mirror_0001f
+    3300000: mirror_0001f
+    4300000: mirror_0001f
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,7 +32,6 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
-    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -52,7 +45,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 1
+    addColliders: 0
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -70,11 +63,9 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
-    normalImportMode: 1
+    normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
   importAnimation: 1
