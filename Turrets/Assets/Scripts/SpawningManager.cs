@@ -15,6 +15,7 @@ public class SpawningManager : MonoBehaviour
         Instance = this;
         ObjectsToSpawn = new List<GameObject>()
         {
+            turret,
             turret
         };
     }
