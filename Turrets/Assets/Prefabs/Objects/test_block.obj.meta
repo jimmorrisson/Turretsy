@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: 6fc616e9047948e47a12d168e8bf0ea5
+guid: 6aa22d942a2c31a4dabe686e54849a8c
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: wall_0001
+    100000: test_block
     100002: //RootNode
-    400000: wall_0001
+    400000: test_block
     400002: //RootNode
-    2100000: wall_0001Mat
-    2300000: wall_0001
-    3300000: wall_0001
-    4300000: wall_0001
+    2100000: test_blockMat
+    2300000: test_block
+    3300000: test_block
+    4300000: test_block
   externalObjects: {}
   materials:
     importMaterials: 1
