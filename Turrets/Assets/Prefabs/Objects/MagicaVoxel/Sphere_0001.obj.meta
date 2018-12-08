@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: 06d9164a8ed01e646b73c41b2d98eb2d
+guid: f5111ba0f650a1c4599fdb9ba4bbcf35
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: wall_0002
+    100000: Sphere_0001
     100002: //RootNode
-    400000: wall_0002
+    400000: Sphere_0001
     400002: //RootNode
-    2100000: wall_0002Mat
-    2300000: wall_0002
-    3300000: wall_0002
-    4300000: wall_0002
+    2100000: Sphere_0001Mat
+    2300000: Sphere_0001
+    3300000: Sphere_0001
+    4300000: Sphere_0001
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -42,7 +42,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 0.03
+    globalScale: 0.07
     meshCompression: 0
     addColliders: 0
     importVisibility: 1
